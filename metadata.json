@@ -1,0 +1,6 @@
+{
+  "name": "Hotspot & Wi-Fi Billing Management System",
+  "description": "Comprehensive web-based hotspot billing, customer management, voucher generation, packages, payments, router sync, and captive portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
